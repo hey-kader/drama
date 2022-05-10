@@ -37,9 +37,9 @@ brew, our ubiquitous trusty package manager
 
 ##### if you end up in dependency hell
 
-`rm -rf node_modules`
-`rm -rf package-lock.json` (NOT `package.json`, we need that)
-`npm install`
+1. `rm -rf node_modules`
+2. `rm -rf package-lock.json` (NOT `package.json`, we need that)
+3. `npm install`
 
 
 + happy hacking!
