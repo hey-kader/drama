@@ -21,3 +21,6 @@ this will start as a rudimentary crud app,
 
 ### getting localhost up and running
 
+if you hve never used npm, run `brew install npm` or `sudo apt install npm` on linux
+on windows, run to your closest apple store, and proceed with `brew install npm` after installing
+brew, our ubiquitous trusty package manager
