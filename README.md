@@ -18,3 +18,6 @@ post issues with any questions,
 this will start as a rudimentary crud app,
 
 `MERN` x `CRUD`
+
+### >getting localhost up and running
+
