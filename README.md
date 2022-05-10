@@ -19,5 +19,5 @@ this will start as a rudimentary crud app,
 
 `MERN` x `CRUD`
 
-### * getting localhost up and running
+### getting localhost up and running
 
