@@ -1,7 +1,8 @@
 # dramanet multi-platform application
 
 
-# scripts
+## run scripts
+> `run these scripts by typing npm run <script> in the projects rood folder`
 > Note: created the project with `npx create-react-native-app <name>`
 
 ### development servers
