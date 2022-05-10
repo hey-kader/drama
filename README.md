@@ -2,7 +2,7 @@
 
 
 ## run scripts
-> `run these scripts by typing `npm run <script>` in the projects root folder`
+> `run these scripts by typing `sh npm run <script>`` in the projects root folder`
 > Note: created the project with `npx create-react-native-app <name>`
 
 ### development servers
